@@ -28,46 +28,68 @@
 <code>[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 VSCode  </code>
 
+<code>
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 HTML5  
+</code>
 
+<code>
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 CSS
+</code>
 
 <!-- [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 SASS -->
 
+<code>
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 Javascript
+</code>
 
+<code>
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 React
+</code>
 
 <!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 Gatsby -->
 
+<code>
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 Node.Js
+</code>
 
 <!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist] -->
 
+<code>
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 SQL
+</code>
 
+<code>
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 MySQL
+</code>
 
+<code>
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 MongoDB
+</code>
 
+<code>
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 Git
+</code>
 
+<code>
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 GitHub
+</code>
 
+<code>
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 Terminal
+</code>
 
 </details>
 <br />
@@ -120,11 +142,7 @@ Terminal
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/jamesgeorge007/csstox/pull/26) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-2. 🎉 Merged PR [#25](https://github.com/jamesgeorge007/csstox/pull/25) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-3. 🎉 Merged PR [#27](https://github.com/jamesgeorge007/csstox/pull/27) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-4. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/csstox/pull/28) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-5. 🎉 Merged PR [#29](https://github.com/jamesgeorge007/csstox/pull/29) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+
 
 <!--END_SECTION:activity-->
 
