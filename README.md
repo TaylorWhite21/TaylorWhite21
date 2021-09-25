@@ -102,8 +102,6 @@ Terminal
 
 <br />
 
-  <summary> GitHub Stats</summary>
-
 [![Taylor White's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorWhite21&theme=vision-friendly-dark)](https://github.com/TaylorWhite21/github-readme-stats)
 
 
