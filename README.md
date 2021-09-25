@@ -92,7 +92,7 @@ Terminal
 
   <summary> GitHub Stats</summary>
 
-<img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaylorWhite21&show_icons=true&hide_border=true
+<img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaylorWhite21
 " />
 
 
