@@ -86,7 +86,7 @@ Terminal
 
 <br />
 
-[Revised about me (coming soon)](https://github.com/TaylorWhite21/about-me-revision)
+[Revised about me (coming soon)](https://lucid-euler-b9d465.netlify.app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me-revision)](https://github.com/TaylorWhite21/about-me-revision)
 
