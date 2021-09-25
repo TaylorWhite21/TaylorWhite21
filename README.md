@@ -95,6 +95,9 @@ Terminal
 <img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaylorWhite21
 " />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [website]: https://lucid-euler-b9d465.netlify.app
 [instagram]: https://www.instagram.com/penkey21/
