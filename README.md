@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Taylor White | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Taylor White | LinkedIn" width="22px" src="./img/linkedin_logo.png" />][linkedin]
 [<img align="left" alt="penkey21 | Instagram" width="22px" src="./img/instagram_logo.png" />][instagram]
 
 <br />
