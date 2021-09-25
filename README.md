@@ -20,13 +20,13 @@
 
 ### Languages and Tools:
 
-
+*NOTE: Top languages do not indicate my skill level. The stats for my most used languages are based of which languages I have the most code on.*
 
 <details>
 <summary> List Languages and Tool</summary>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-VSCode  
+<code>[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+VSCode  </code>
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 HTML5  
@@ -70,44 +70,51 @@ GitHub
 Terminal
 
 </details>
+<br />
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorWhite21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorWhite21&layout=compact&theme=vision-friendly-dark)
 
 
 <br />
 <br />
 
-### 📺 Latest Projects
+### 📺 Top Repositories
 
-[First uploaded micro-game](https://github.com/TaylorWhite21/Project-to-the-moon)
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=Project-to-the-moon)](https://github.com/TaylorWhite21/Project-to-the-moon)
+[My first uploaded micro game](https://github.com/TaylorWhite21/about-me-revision)
+<a href="https://github.com/TaylorWhite21/Project-to-the-moon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=Project-to-the-moon&theme=vision-friendly-dark" />
+</a>
 
 <br />
+<br />
 
-[My first about me](https://lucid-euler-b9d465.netlify.app)
+[My first webpage (coming soon)](https://github.com/TaylorWhite21/about-me-revision)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me)](https://github.com/TaylorWhite21/about-me)
+<a href="https://lucid-euler-b9d465.netlify.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me&theme=vision-friendly-dark" />
 
+<br />
 <br />
 
 [Revised about me (coming soon)](https://github.com/TaylorWhite21/about-me-revision)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me-revision)](https://github.com/TaylorWhite21/about-me-revision)
+<a href="https://github.com/TaylorWhite21/about-me-revision">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me-revision&theme=vision-friendly-dark" />
 
+<br />
 <br />
 
 [City Explorer (First time using an API and forgive the CSS 😅 )](https://github.com/TaylorWhite21/city-explorer)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=city-explorer)](https://github.com/TaylorWhite21/city-explorer)
+<a href="https://github.com/TaylorWhite21/city-explorer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=city-explorer&theme=vision-friendly-dark" />
 
 <br />
-
-[Know Before You Go Project (Working on deployment)](https://github.com/301-final-team)
-
 <br />
 
 [![Taylor White's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorWhite21&theme=vision-friendly-dark)](https://github.com/TaylorWhite21/github-readme-stats)
+
 
 
 [website]: https://lucid-euler-b9d465.netlify.app
