@@ -92,10 +92,7 @@ Terminal
 
   <summary> GitHub Stats</summary>
 
-<img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaylorWhite21
-" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Taylor White's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorWhite21)](https://github.com/TaylorWhite21/github-readme-stats)
 
 
 
