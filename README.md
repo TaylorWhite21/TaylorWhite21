@@ -77,8 +77,8 @@ Terminal
 - [City Explorer (First time using an API)](https://flamboyant-tesla-763e34.netlify.app)
 - [Know Before You Go Project (Working on deployment)](https://github.com/301-final-team)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+  <summary> Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
@@ -90,12 +90,10 @@ Terminal
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
 
 <img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaylorWhite21&show_icons=true&hide_border=true
 " />
-</details>
 
 
 [website]: https://lucid-euler-b9d465.netlify.app
