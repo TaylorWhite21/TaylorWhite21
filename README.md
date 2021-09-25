@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorWhite21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <details>
 <summary> List Languages and Tool</summary>
@@ -70,6 +70,8 @@ GitHub
 Terminal
 
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorWhite21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
