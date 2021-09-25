@@ -90,7 +90,7 @@ Terminal
 <br />
 <br />
 
-[My first webpage (coming soon)](https://github.com/TaylorWhite21/about-me-revision)
+[My first webpage](https://github.com/TaylorWhite21/about-me-revision)
 
 <a href="https://lucid-euler-b9d465.netlify.app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me&theme=vision-friendly-dark" />
