@@ -92,8 +92,8 @@ Terminal
 
   <summary> GitHub Stats</summary>
 
-<img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaylorWhite21&show_icons=true&hide_border=true
-" />
+[![Taylor White's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorWhite21)](https://github.com/TaylorWhite21/github-readme-stats)
+
 
 
 [website]: https://lucid-euler-b9d465.netlify.app
