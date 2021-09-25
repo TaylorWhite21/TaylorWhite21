@@ -74,21 +74,19 @@ Terminal
 
 ### 📺 Latest Projects
 
-- [First uploaded micro-game](https://github.com/TaylorWhite21/Project-to-the-moon)
+[First uploaded micro-game](https://github.com/TaylorWhite21/Project-to-the-moon)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=Project-to-the-moon)](https://github.com/TaylorWhite21/Project-to-the-moon)
 
 <br />
 
-
 [My first about me](https://github.com/TaylorWhite21/about-me)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me)](https://github.com/TaylorWhite21/about-me)
 
 <br />
 
-
 [Revised about me (coming soon)](https://github.com/TaylorWhite21/about-me-revision)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me-revision)](https://github.com/TaylorWhite21/about-me-revision)
 
 [City Explorer (First time using an API and forgive the CSS 😅 )](https://github.com/TaylorWhite21/city-explorer)
