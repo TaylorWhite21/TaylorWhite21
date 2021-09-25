@@ -93,6 +93,7 @@ Terminal
 <br />
 
 [City Explorer (First time using an API and forgive the CSS 😅 )](https://github.com/TaylorWhite21/city-explorer)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=city-explorer)](https://github.com/TaylorWhite21/city-explorer)
 
 <br />
@@ -104,7 +105,6 @@ Terminal
   <summary> GitHub Stats</summary>
 
 [![Taylor White's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorWhite21&theme=vision-friendly-dark)](https://github.com/TaylorWhite21/github-readme-stats)
-
 
 
 [website]: https://lucid-euler-b9d465.netlify.app
