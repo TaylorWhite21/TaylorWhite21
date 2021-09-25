@@ -80,13 +80,13 @@ Terminal
 
 <br />
 
-[My first about me](https://github.com/TaylorWhite21/about-me)
+[My first about me](https://lucid-euler-b9d465.netlify.app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me)](https://github.com/TaylorWhite21/about-me)
 
 <br />
 
-[Revised about me (coming soon)](https://lucid-euler-b9d465.netlify.app)
+[Revised about me (coming soon)](https://github.com/TaylorWhite21/about-me-revision)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me-revision)](https://github.com/TaylorWhite21/about-me-revision)
 
