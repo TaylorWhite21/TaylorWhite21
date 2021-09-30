@@ -95,7 +95,7 @@ Terminal
 
 [My first uploaded micro game](https://github.com/TaylorWhite21/Project-to-the-moon).  
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/3786812?color=333333" allowfullscreen="" width="1280" height="740"><a href="https://penkey21.itch.io/project-to-the-moon">Play Project To the moon on itch.io</a></iframe>
+<a href="https://itch.io/embed-upload/3786812?color=333333">Click here to play my game!</a>
 
 
 <a href="https://github.com/TaylorWhite21/Project-to-the-moon">
