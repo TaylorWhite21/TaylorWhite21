@@ -107,7 +107,7 @@ Terminal
 <br />
 
  
-## [A Linked List to the Past](https://github.com/TaylorWhite21/linked_list_to_the_past)  
+## [A Linked List to the Past](https://github.com/TaylorWhite21/linked_list_to_the_past/tree/main)  
 ### Demo Video:  
 [<img src="https://i9.ytimg.com/vi/fCLFO1zBbZk/mq3.jpg?sqp=CLCU75AG&rs=AOn4CLAi8WUCP48VqRsnO8-8sB6FfAroYg">](https://youtu.be/fCLFO1zBbZk)
 
