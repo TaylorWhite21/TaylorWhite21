@@ -94,9 +94,9 @@ Terminal
 
 ### 📺 Top Repositories
 
-[My first uploaded micro game](https://github.com/TaylorWhite21/Project-to-the-moon).  
+## [My first uploaded micro game](https://github.com/TaylorWhite21/Project-to-the-moon).  
 
-<a href="https://penkey21.itch.io/project-to-the-moon">Click here to play my game!</a>
+### <a href="https://penkey21.itch.io/project-to-the-moon">Click here to play my game!</a>
 
 
 <a href="https://github.com/TaylorWhite21/Project-to-the-moon">
@@ -106,21 +106,17 @@ Terminal
 <br />
 <br />
 
-[A Linked List to the Past](https://github.com/TaylorWhite21/linked_list_to_the_past)  
-Created by team Down in the Dunder for our 401 Midterm project.
+ 
+## [A Linked List to the Past](https://github.com/TaylorWhite21/linked_list_to_the_past)  
+### Demo Video:  
+[<img src="https://i9.ytimg.com/vi/fCLFO1zBbZk/mq3.jpg?sqp=CLCU75AG&rs=AOn4CLAi8WUCP48VqRsnO8-8sB6FfAroYg">](https://youtu.be/fCLFO1zBbZk)
+
+#### Created by team Down in the Dunder for our 401 Midterm project.
 
 <br />
 <br />
 
-[Revised about me (coming soon)](https://github.com/TaylorWhite21/about-me-revision)
-
-<a href="https://github.com/TaylorWhite21/about-me-revision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=about-me-revision&theme=vision-friendly-dark" />
-
-<br />
-<br />
-
-[City Explorer (First time using an API and forgive the CSS 😅 )](https://github.com/TaylorWhite21/city-explorer)
+## [City Explorer (First time using an API and forgive the CSS 😅 )](https://github.com/TaylorWhite21/city-explorer)
 
 <a href="https://github.com/TaylorWhite21/city-explorer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaylorWhite21&repo=city-explorer&theme=vision-friendly-dark" />
@@ -129,14 +125,6 @@ Created by team Down in the Dunder for our 401 Midterm project.
 <br />
 
 [![Taylor White's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorWhite21&theme=vision-friendly-dark)](https://github.com/TaylorWhite21/github-readme-stats)
-
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
 
 [website]: https://lucid-euler-b9d465.netlify.app
 [instagram]: https://www.instagram.com/penkey21/
