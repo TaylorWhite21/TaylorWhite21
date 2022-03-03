@@ -109,7 +109,9 @@ Terminal
  
 ## [A Linked List to the Past](https://github.com/TaylorWhite21/linked_list_to_the_past/tree/main)  
 ### Demo Video:  
-[<img src="./img/thumb.png">](https://youtu.be/fCLFO1zBbZk)
+[<img alt="Demo Video" width="500px" src="./img/thumb.png"/>](https://youtu.be/fCLFO1zBbZk)  
+
+<br />
 
 #### Created by team Down in the Dunder for our 401 Midterm project.
 
