@@ -23,7 +23,7 @@
 *NOTE: Top languages do not indicate my skill level. The stats for my most used languages are based of which languages I have the most code on.*
 
 
-<code>[<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+<code>[<img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 Javascript
 </code>
 
